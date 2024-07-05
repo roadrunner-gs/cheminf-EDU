@@ -1,7 +1,7 @@
 # Spectral Analysis
 ## Introduction
 
-The HPLC-data set is a collection of intensities, probably emitted wave lenghts, recorded at different points in time from a starting point. These intensities with their respective times are assigned to a sample. This data set is aimed at analysis via machine learning methods.
+The HPLC-data set is a collection of intensities, probably emitted wave lengths, recorded at different points in time from a starting point. These intensities with their respective times are assigned to a sample. This data set is aimed at analysis via machine learning methods.
 
 ## Objective
 
